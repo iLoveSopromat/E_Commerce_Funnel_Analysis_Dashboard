@@ -13,7 +13,6 @@ The project models real-world business tasks by transforming raw clickstream dat
 * **Data Warehouse & Querying:** Google BigQuery (SQL)
 * **Data Visualization & Analytics:** Tableau Public
 * **Dataset:** Public GA4 BigQuery Dataset (`bigquery-public-data.ga_sessions_*` / `ga4_obfuscated_sample_ecommerce`) [View Dataset](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=ga4_obfuscated_sample_ecommerce&t=events_20210131&page=table&project=elite-totality-489111-j4&ws=!1m6!1m5!4m3!1sbigquery-public-data!2sga4_obfuscated_sample_ecommerce!3sevents_20210131!23sLEGACY_URL_PARAM)
-* **Repository & Version Control:** Git & GitHub
 
 ---
 
@@ -52,17 +51,9 @@ The project models real-world business tasks by transforming raw clickstream dat
 
 2. **Dashboard Design & Visualization (Tableau):**
 * Built a funnel breakdown showcasing overall conversion progression across all 7 stages.
-* Designed 5+ dynamic charts evaluating funnel efficiency by traffic sources, landing pages, and user device profiles.
+* Designed dynamic charts evaluating funnel efficiency by traffic sources, landing pages, and user device profiles.
 * Incorporated session start time filters and cross-chart filtering capabilities.
-* Applied UI/UX design standards: the **5-second rule**, strategic KPI placement at top-left, clear labeling, and functional color coding.
-
-
-3. **Development & Review Timeline:**
-* **Days 1–10:** Requirements planning, SQL data pipeline modeling, and initial Tableau dashboard layout.
-* **Days 10–13:** Code and dashboard review by Project Mentors, incorporating feedback and refining SQL query efficiency.
-* **Day 14:** Final review for edge-case errors and presentation slide deck preparation.
-* **Day 15:** Final project presentation and demo to Technical Mentors and stakeholders.
-
+* Applied UI/UX design standards: the **5-second rule**.
 
 
 ---
